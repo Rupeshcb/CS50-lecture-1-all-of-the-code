@@ -3,6 +3,7 @@
 // This is the lecture of conditional like (if and else)
 int main(void)
 {
+  // ask the users for x and y value to give
   int  x = get_int("what is x? ");
   int  y = get_int("what is y? ");
   if (x < y)
